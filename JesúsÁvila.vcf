@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 18.3.2//EN
+N:Ávila;Jesús;;;
+FN:Jesús Ávila
+ORG:Pinchili;
+item1.EMAIL;type=INTERNET;type=pref:jesus@pinchili.com
+item1.X-ABLabel:Correo
+TEL;type=CELL;type=VOICE;type=pref:+85265554756
+NOTE:Somos tu aliado para:\n\n🔎 Validaciones de proveedores\n🔍 Búsqueda de proveedores\n👨‍💼 Broker\, agente de compras\n📦 Consolidación de Carga\n🚢 Fletes marítimos y aéreos\n🏅 Club del importador ÉLITE\n✈️ Viaje de negocios a China\n\nProtegemos tu inversión\, y agregamos nuestra experticia a sus importaciones 🚢
+item2.URL;type=pref:https://www.instagram.com/pinchilichina?igsh=MXhqcG1keGdxd3J2Ng==
+item2.X-ABLabel:Instagram
+item3.URL:wwww.pinchili.com
+item3.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
